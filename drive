@@ -2,7 +2,7 @@
 {
 	"Ads": {
 		"AdMob": {
-			"activated":false,
+			"activated": false,
 			"banner": "ca-app-pub-7522731665883717/5566592221",
 			"native": "ca-app-pub-7522731665883717/2940428884",
 			"interstitial": "ca-app-pub-7522731665883717/9641568606"
@@ -41,28 +41,25 @@
 		"url": "https://termly.io/privacy-policy/"
 	},
 
-	"GuideContent": [
-{
-"title": "Guide 1",
-"description": "Whether you’re looking to learn more about the game or have encountered something you’re not sure how to approach, we’ll give you the tools necessary to enjoy your time in BeamNG.drive! This guide will cover just about everything a beginner would need, including information on game modes, menu navigation, fundamental controls, basic troubleshooting, and much more." 
-},
-		{
-"title": "Guide 2",
-"description": "You can start getting to know the game through the campaign game mode. In them you will find 4 campaigns, each differing in their complexity, from simple to extremely difficult. We recommend starting with senseless destruction. This is a fun and simple campaign that will introduce you to how the game works in relation to physics, destruction and explosions. "
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "Whether you’re looking to learn more about the game or have encountered something you’re not sure how to approach, we’ll give you the tools necessary to enjoy your time in BeamNG.drive! This guide will cover just about everything a beginner would need, including information on game modes, menu navigation, fundamental controls, basic troubleshooting, and much more."
 		},
 		{
-"title": "Guide 3",
-"description": " After that, you can continue with the Driver’s Training campaign to learn the basics of handling a vehicle in BeamNG.drive. It is very important to read the descriptions of each mission, as well as their corresponding hints. Don’t be afraid to make mistakes! The next campaign serves as a decent challenge. You will plunge into a short story, during which you will need to show the driving skills you’ve developed. A quick tip: don’t always feel the need to rush, taking your time may serve you well in certain instances.
-
-The final campaign option, the most difficult one available, will force you to make quick decisions and create new options on the go. "
+			"title": "Guide 2",
+			"description": "You can start getting to know the game through the campaign game mode. In them you will find 4 campaigns, each differing in their complexity, from simple to extremely difficult. We recommend starting with senseless destruction. This is a fun and simple campaign that will introduce you to how the game works in relation to physics, destruction and explosions. "
 		},
 		{
-"title": "Guide 4  ",
-"description": " Scenarios are small, contained mission maps. Usually one mission per map. The scripts created by the BeamNG.drive team can be found via the BeamNG.drive icon in the corner of the map. The scenarios are also divided according to their complexity, from the simplest to the most difficult. Can you drive to a gas station without fuel? Or gently descend a steep cliff? Everything depends on you and your abilities. We recommend starting with the simplest of scenario difficulties. In doing so, you will get acquainted with the game and master the control of the car. As you move from simple to complex scenarios, you will improve, and many of them will make you motivate you to clear them as accurately and quickly as possible. "
+			"title": "Guide 3",
+			"description": " After that you can continue with the Drivers Training campaign to learn the basics of handling a vehicle in BeamNG.drive. It is very important to read the descriptions of each mission as well as their corresponding hints Dont be afraid to make mistakes The next campaign serves as a decent challenge You will plunge into a short story during which you will need to show the driving skills youve developed. A quick tip don’t always feel the need to rush taking your time may serve you well in certain instances.The final campaign option,the most difficult one available,will force you to make quick decisions and create new options on the go."
 		},
 		{
-"title": "Guide 5",
-"description": "In this mode, you can feel like a bus driver! But don’t underestimate this, as some routes can be quite complex. For example, you might be tasked with taking loads of sharp angles that busses wouldn’t normally take. You can also balance and maneuver along short streets or steep slopes. This is a great way to take on a vehicle that feels very different in how it drives"
+			"title": "Guide 4  ",
+			"description": " Scenarios are small, contained mission maps. Usually one mission per map. The scripts created by the BeamNG.drive team can be found via the BeamNG.drive icon in the corner of the map. The scenarios are also divided according to their complexity, from the simplest to the most difficult. Can you drive to a gas station without fuel? Or gently descend a steep cliff? Everything depends on you and your abilities. We recommend starting with the simplest of scenario difficulties. In doing so, you will get acquainted with the game and master the control of the car. As you move from simple to complex scenarios, you will improve, and many of them will make you motivate you to clear them as accurately and quickly as possible. "
+		},
+		{
+			"title": "Guide 5",
+			"description": "In this mode, you can feel like a bus driver! But don’t underestimate this, as some routes can be quite complex. For example, you might be tasked with taking loads of sharp angles that busses wouldn’t normally take. You can also balance and maneuver along short streets or steep slopes. This is a great way to take on a vehicle that feels very different in how it drives"
 		}
 	]
 }
